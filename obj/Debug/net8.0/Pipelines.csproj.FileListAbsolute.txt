@@ -1,0 +1,14 @@
+D:\Aulas\Pipelines\obj\Debug\net8.0\Pipelines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Pipelines\obj\Debug\net8.0\Pipelines.AssemblyInfoInputs.cache
+D:\Aulas\Pipelines\obj\Debug\net8.0\Pipelines.AssemblyInfo.cs
+D:\Aulas\Pipelines\obj\Debug\net8.0\Pipelines.csproj.CoreCompileInputs.cache
+D:\Aulas\Pipelines\bin\Debug\net8.0\Pipelines.exe
+D:\Aulas\Pipelines\bin\Debug\net8.0\Pipelines.deps.json
+D:\Aulas\Pipelines\bin\Debug\net8.0\Pipelines.runtimeconfig.json
+D:\Aulas\Pipelines\bin\Debug\net8.0\Pipelines.dll
+D:\Aulas\Pipelines\bin\Debug\net8.0\Pipelines.pdb
+D:\Aulas\Pipelines\obj\Debug\net8.0\Pipelines.dll
+D:\Aulas\Pipelines\obj\Debug\net8.0\refint\Pipelines.dll
+D:\Aulas\Pipelines\obj\Debug\net8.0\Pipelines.pdb
+D:\Aulas\Pipelines\obj\Debug\net8.0\Pipelines.genruntimeconfig.cache
+D:\Aulas\Pipelines\obj\Debug\net8.0\ref\Pipelines.dll
