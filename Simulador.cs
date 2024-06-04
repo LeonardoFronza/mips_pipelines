@@ -40,6 +40,11 @@ public class Simulador
         }
         else
         {
+            string opcode = instrucaoDecodificar?.Opcode;
+            if (opcode != null && opcode.Equals("j"))
+            {
+                this.pc = this.labels[this.instrucaoDecodificar.Op1];
+            }
             this.instrucaoBusca = this.instrucoes[this.pc];
         }
     }
@@ -80,9 +85,6 @@ public class Simulador
                 {
                     this.pc = this.labels[label];
                 }
-                break;
-            case "J":
-                this.pc = this.labels[this.instrucaoDecodificar.Op1];
                 break;
         }
     }

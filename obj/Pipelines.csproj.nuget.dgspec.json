@@ -21,6 +21,7 @@
           "net8.0"
         ],
         "sources": {
+          "https://gvdasa.pkgs.visualstudio.com/_packaging/Feed_NAP/nuget/v3/index.json": {},
           "https://gvdasa.pkgs.visualstudio.com/_packaging/GVcentrisPKG/nuget/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +54,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )",
+              "version": "[8.0.5, )",
               "autoReferenced": true
             }
           },
@@ -79,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

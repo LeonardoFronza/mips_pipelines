@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Aulas\\Pipelines\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|d:\\aulas\\pipelines\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|solutionrelative:simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|d:\\aulas\\pipelines\\simuladorpht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|solutionrelative:simuladorpht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|d:\\aulas\\pipelines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|d:\\aulas\\pipelines\\utils\\leitordearquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|solutionrelative:utils\\leitordearquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|d:\\aulas\\pipelines\\aulapipes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|solutionrelative:aulapipes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|d:\\aulas\\pipelines\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|solutionrelative:simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B16AA0B8-E8DD-41C5-8775-57FCB040A890}|Pipelines.csproj|d:\\aulas\\pipelines\\utils\\instrucoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,16 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1137,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 16,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -94,35 +94,45 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Simulador.cs",
               "DocumentMoniker": "D:\\Aulas\\Pipelines\\Simulador.cs",
               "RelativeDocumentMoniker": "Simulador.cs",
               "ToolTip": "D:\\Aulas\\Pipelines\\Simulador.cs",
               "RelativeToolTip": "Simulador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T20:36:03.505Z",
+              "WhenOpened": "2024-05-30T20:45:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimuladorPHT.cs",
+              "DocumentMoniker": "D:\\Aulas\\Pipelines\\SimuladorPHT.cs",
+              "RelativeDocumentMoniker": "SimuladorPHT.cs",
+              "ToolTip": "D:\\Aulas\\Pipelines\\SimuladorPHT.cs",
+              "RelativeToolTip": "SimuladorPHT.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:21:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AulaPipes.txt",
+              "DocumentMoniker": "D:\\Aulas\\Pipelines\\AulaPipes.txt",
+              "RelativeDocumentMoniker": "AulaPipes.txt",
+              "ToolTip": "D:\\Aulas\\Pipelines\\AulaPipes.txt",
+              "RelativeToolTip": "AulaPipes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-29T23:23:59.566Z",
               "EditorCaption": ""
             },
             {
@@ -133,7 +143,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Aulas\\Pipelines\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T20:35:45.318Z",
               "EditorCaption": ""
@@ -146,20 +156,20 @@
               "RelativeDocumentMoniker": "Utils\\LeitorDeArquivo.cs",
               "ToolTip": "D:\\Aulas\\Pipelines\\Utils\\LeitorDeArquivo.cs",
               "RelativeToolTip": "Utils\\LeitorDeArquivo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T20:35:42.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Instrucoes.cs",
               "DocumentMoniker": "D:\\Aulas\\Pipelines\\Utils\\Instrucoes.cs",
               "RelativeDocumentMoniker": "Utils\\Instrucoes.cs",
               "ToolTip": "D:\\Aulas\\Pipelines\\Utils\\Instrucoes.cs",
               "RelativeToolTip": "Utils\\Instrucoes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T20:35:33.567Z",
               "EditorCaption": ""

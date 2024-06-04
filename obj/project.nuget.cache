@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gV4BB2ik7GU=",
+  "dgSpecHash": "HNYG30HpyajlVzFL1Zqn6bU8cmHbM4bKY33JBqWNnFBEq3jpXUZiK333DbpFB5MNAMjbtDHJg9J8IboVF7sQDw==",
   "success": true,
   "projectFilePath": "D:\\Aulas\\Pipelines\\Pipelines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lfronza\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
-    "C:\\Users\\lfronza\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\lfronza\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
     "C:\\Users\\lfronza\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
   ],
   "logs": []
